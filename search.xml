@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+    
+    <entry>
+      <title><![CDATA[博客首篇//文章标题]]></title>
+      <url>/2017/08/20/%E5%8D%9A%E5%AE%A2%E9%A6%96%E7%AF%87/</url>
+      <content type="html"><![CDATA[<h2 id="首篇文章"><a href="#首篇文章" class="headerlink" title="首篇文章"></a>首篇文章</h2><h3 id="技术点：记录一些与博客有关的技术"><a href="#技术点：记录一些与博客有关的技术" class="headerlink" title="技术点：记录一些与博客有关的技术"></a>技术点：记录一些与博客有关的技术</h3><ul>
+<li>Node.js : 一个能够在服务端运行JavaScript的开发源代码，跨平台的JavaScript运行环境</li>
+<li>Hexo : 是一个快速，简洁且高效的博客框架</li>
+<li>Git : 一款免费，开源的分布式颁布控制系统</li>
+</ul>
+<p>关于更详细的知识点，上网去搜吧！</p>
+<h3 id="个人感想："><a href="#个人感想：" class="headerlink" title="个人感想："></a>个人感想：</h3><pre><code>技术还是挺有趣的，虽然有折腾，但是技术也能带来成就感和喜悦的！
+
+后面还要多多学习技术，成为一名Geek :) !
+
+人生的路还很长，技术也还有很多要学，生活还有很多没有体会，所以后面还要一直一直努力着，中间累了，可以休息一下，休息完了就要继续走，毕竟世界这么大，我还有很多没看呢！
+</code></pre>]]></content>
+      
+        <categories>
+            
+            <category> 个人//文章分类 </category>
+            
+        </categories>
+        
+        
+        <tags>
+            
+            <tag> 个人 //文章标签 </tag>
+            
+            <tag> 个人感想 //文章标签 </tag>
+            
+        </tags>
+        
+    </entry>
+    
+  
+  
+    
+    <entry>
+      <title><![CDATA[关于]]></title>
+      <url>/about/index.html</url>
+      <content type="html"><![CDATA[<h1 id="关于我"><a href="#关于我" class="headerlink" title="关于我"></a>关于我</h1><p>大学生，一个乐乐逗逗的程序员！</p>
+<p>Android开发，现在也喜欢前端了：）</p>
+<h1 id="联系我"><a href="#联系我" class="headerlink" title="联系我"></a>联系我</h1><p>Email:JakeyYe@foxmail.com</p>
+]]></content>
+    </entry>
+    
+  
+</search>
