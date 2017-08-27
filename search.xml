@@ -3,7 +3,7 @@
   
     
     <entry>
-      <title><![CDATA[博客首篇//文章标题]]></title>
+      <title><![CDATA[博客首篇，记录一些东西]]></title>
       <url>/2017/08/20/%E5%8D%9A%E5%AE%A2%E9%A6%96%E7%AF%87/</url>
       <content type="html"><![CDATA[<h2 id="首篇文章"><a href="#首篇文章" class="headerlink" title="首篇文章"></a>首篇文章</h2><h3 id="技术点：记录一些与博客有关的技术"><a href="#技术点：记录一些与博客有关的技术" class="headerlink" title="技术点：记录一些与博客有关的技术"></a>技术点：记录一些与博客有关的技术</h3><ul>
 <li>Node.js : 一个能够在服务端运行JavaScript的开发源代码，跨平台的JavaScript运行环境</li>
@@ -20,7 +20,7 @@
       
         <categories>
             
-            <category> 个人//文章分类 </category>
+            <category> 个人 //文章分类 </category>
             
         </categories>
         
